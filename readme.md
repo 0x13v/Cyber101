@@ -1,6 +1,7 @@
 ## Welcome :)
 
 ### [Fast Notes](FastNotes.md)
+### [Recommended Reading List for SW Career](Career_Notes.md)
 
 ---
 

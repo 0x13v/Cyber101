@@ -3,7 +3,7 @@
 > For Training:
 > 
 
-[Cybertalant](CTF/Cybertalant.md)
+[Cybertalent](Cybertalent.md)
 
 [TryHackMe ](CTF/TryHackMe.md)
 
@@ -18,6 +18,6 @@
 > Competition
 > 
 
-[Cybertalant National Competition](CTF/CybertalantNationalCompetition.md)
+[Cybertalant National Competition](CybertalentNationalCompetition.md)
 
 [Arab Security Cyber Wargames](CTF/ArabSecurityCyberWargames.md)
